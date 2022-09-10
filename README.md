@@ -1,4 +1,5 @@
 # BarcodeScannerCompose
+A simple app for barcode / QRCode Scaning.
 
 # Binaries
 
