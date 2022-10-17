@@ -110,7 +110,7 @@ This section only applies to individuals that access or use our Service while lo
 
 When we rely on your IP address, we cannot apply the terms of this section to any individual that masks or otherwise hides their location information from us so as not to appear located in the Designated Countries. If any terms in this section conflict with other terms contained in this Policy, the terms in this section shall apply to users in the Designated Countries.
 
-A. Our Relationship to You. Easylife Studio/CHAMOMILE PTE. LTD is a data controller with regard to any personal information collected from individuals accessing or using its Service. A “data controller” is an entity that determines the purposes for which and the manner in which any personal information is processed. Any third parties that act as our service providers or are otherwise acting on our behalf are “data processors” that handle your personal information in accordance with our instructions.
+A. Our Relationship to You. Barcode Scanner is a data controller with regard to any personal information collected from individuals accessing or using its Service. A “data controller” is an entity that determines the purposes for which and the manner in which any personal information is processed. Any third parties that act as our service providers or are otherwise acting on our behalf are “data processors” that handle your personal information in accordance with our instructions.
 
 B. Legal Bases for Processing Your Personal Information. We describe our legal bases for processing throughout this Policy. Below is a list of the purposes described in our policy with the corresponding legal bases for processing:
 
@@ -126,7 +126,7 @@ processing is necessary for the purposes of the legitimate interests pursued by 
 
 In any case, we will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-C. Your Individual Rights. We provide you with the rights described below when you use our Service. If you would like to exercise your rights under applicable law, please contact us at qrcode@easylife.studio. Please note, we may seek to verify your identity when we receive an individual rights request from you in order to ensure the security of your personal information.
+C. Your Individual Rights. We provide you with the rights described below when you use our Service. If you would like to exercise your rights under applicable law, please contact us at khan.shan803@gmaill.com. Please note, we may seek to verify your identity when we receive an individual rights request from you in order to ensure the security of your personal information.
 
 Right to Withdraw Your Consent. If we ever asked for your consent to process your personal information, you have the right to withdraw your consent at any time. A withdrawal of consent will not affect the lawfulness of our processing or the processing of any third parties based on consent before your withdrawal.
 
@@ -158,7 +158,7 @@ Where the request is frivolous or burdensome.
 
 Transfer of Your Personal Information. We transfer your personal information subject to appropriate safeguards as permitted under the applicable data protection laws. Specifically, when your personal information is transferred out of the Designated Countries, we have the required contractual provisions for transferring personal information in place with the third-parties to which your information is transferred. For such transfers, we rely on legal transfer mechanisms such as Standard Contractual Clauses or we work with U.S. based third parties that are certified under the EU-U.S. and Swiss-U.S. Privacy Shield Framework.
 
-Right to Lodge Complaints. If you believe that we have infringed or violated your privacy rights under applicable law or this Policy, please contact us at qrcode@easylife.studio, so that we can work with you to resolve your concerns. You also have a right to lodge a complaint with a competent supervisory authority situated in a Member State of your habitual residence, place of work, or place of alleged infringement.
+Right to Lodge Complaints. If you believe that we have infringed or violated your privacy rights under applicable law or this Policy, please contact us at khan.shan803@gmaill.com, so that we can work with you to resolve your concerns. You also have a right to lodge a complaint with a competent supervisory authority situated in a Member State of your habitual residence, place of work, or place of alleged infringement.
 
 11. How to Contact Us
 
